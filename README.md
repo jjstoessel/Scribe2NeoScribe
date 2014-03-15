@@ -4,7 +4,9 @@ This command line tool converts data files produced by John A. Stinson's SCRIBE 
 
 _Requirements_
 
-Scribe2NeoScribe requires the open source LibMEI framework. Download LibMEI from here https://github.com/DDMAL/libmei and follow the installation instruction given there. LibMEI framework requirements need to be also observed.
+Scribe2NeoScribe requires the open source LibMEI framework. Download LibMEI from here https://github.com/DDMAL/libmei and follow the installation instruction given there. LibMEI framework requirements need to be also observed. Please note that "frbr" bibliographic module needs to be compiled into the LibMEI framework for Scribe2NeoScribe.
+
+Scribe2NeoScribe currently uses existing MEI modules. Future releases will add support for the NeoScribe MEI Module, especially for handingly Trecento and Ars nova notation.
 
 Scribe2NeoScribe also requires the Standard C++ Library and compiles in the Apple LLVM 5.0 C/C++ compiler.
 
