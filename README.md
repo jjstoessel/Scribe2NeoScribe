@@ -1,6 +1,6 @@
 **Scribe2NeoScribe**
 
-This command line tool converts data files produced by John A. Stinson's SCRIBE software designed for encoding medieval music notation into a format compliant with the current Music Encoding Initiative Standard.
+This command line tool converts data files produced by John A. Stinson's SCRIBE software designed for encoding medieval music notation into a format compliant with the current Music Encoding Initiative Standard (http://music-encoding.org/documentation/guidelines2013).
 
 _Requirements_
 
