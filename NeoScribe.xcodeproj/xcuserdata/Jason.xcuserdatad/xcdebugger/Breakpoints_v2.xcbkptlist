@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeCodes.cpp"
+            timestampString = "411191340.059593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "CScribeCodes::load_csv_table(const std::string &amp;csv_file)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeCodes.cpp"
+            timestampString = "411191340.059593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "CScribeCodes::load_csv_table(const std::string &amp;csv_file)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeCodes.cpp"
+            timestampString = "411191340.059593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "CScribeCodes::load_csv_table(const std::string &amp;csv_file)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeCodes.cpp"
+            timestampString = "411191340.059593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "CScribeCodes::load_csv_table(const std::string &amp;csv_file)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "CScribeReader::load_scribe_file()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "CScribeReader::read_scribe_row(std::string raw_row)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "334"
+            endingLineNumber = "334"
+            landmarkName = "CScribeReader::read_scribe_row(std::string raw_row)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "384"
+            endingLineNumber = "384"
+            landmarkName = "CScribeReader::Print()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "CScribeReader::read_scribe_row(std::string raw_row)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReader::read_scribe_row(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReader.cpp"
+                  timestampString = "410940195.117127"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "359"
+                  endingLineNumber = "359"
+                  offsetFromSymbolStart = "5679">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReader::read_scribe_row(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReader.cpp"
+                  timestampString = "410940195.11737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "359"
+                  endingLineNumber = "359"
+                  offsetFromSymbolStart = "5785">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "CScribeReader::load_scribe_file()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "413"
+            endingLineNumber = "413"
+            landmarkName = "CScribeReader::Print()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeCodes.cpp"
+            timestampString = "411191340.059593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "CScribeCodes::get_code_type(const std::string&amp; code)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeCodes.cpp"
+            timestampString = "411191340.059593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "CScribeCodes::get_code_type(const std::string&amp; code)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeCodes.cpp"
+            timestampString = "411191340.059593"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "CScribeCodes::load_csv_table(const std::string &amp;csv_file)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "CScribeReader::read_scribe_row(std::string raw_row)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "CScribeReader::load_scribe_file()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "CScribeReader::load_scribe_file()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "CScribeReader::load_scribe_file()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/Helpers.cpp"
+            timestampString = "396319934.712199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "safeGetline(std::istream&amp; is, std::string&amp; t)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "CScribeReader::read_header()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "CScribeReader::read_scribe_row(std::string raw_row)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "CScribeReader::load_scribe_file()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "318"
+            endingLineNumber = "318"
+            landmarkName = "CScribeReader::read_scribe_row(std::string raw_row)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "CScribeReader::read_scribe_row(std::string raw_row)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "411213499.772368"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "CScribeReader::load_scribe_file()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReader::load_scribe_file()"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReader.cpp"
+                  timestampString = "411187583.395763"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "9432">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReader::load_scribe_file()"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReader.cpp"
+                  timestampString = "411187583.395973"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "9737">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "698"
+            endingLineNumber = "698"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.533271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "462"
+                  endingLineNumber = "462"
+                  offsetFromSymbolStart = "8223">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.533757"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "462"
+                  endingLineNumber = "462"
+                  offsetFromSymbolStart = "8328">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.534143"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "462"
+                  endingLineNumber = "462"
+                  offsetFromSymbolStart = "8397">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "701"
+            endingLineNumber = "701"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.53455"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "8523">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.535506"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "8702">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.535792"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "8791">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.536067"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "8880">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.536345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "8929">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.536625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "8963">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.536928"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "9075">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.537207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "9200">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413601348.537484"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "9305">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+            timestampString = "413603030.009367"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "CScribeReaderVisitable::read_header()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReader.cpp"
+            timestampString = "413592229.548432"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "850"
+            endingLineNumber = "850"
+            landmarkName = "CScribeReader::Scribe2MEIXMLStaff(const scribe_part&amp; partit, TiXmlElement* staffgrp, const int i)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.h"
+            timestampString = "415234752.20308"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXML(const CScribeReaderVisitable&amp; scribe_data)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413607418.927126"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "646">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413607418.927345"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "809">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413607418.927558"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "987">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413607418.927772"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1092">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413607418.927983"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "4941">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXML(const CScribeReaderVisitable&amp; scribe_data)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "791"
+            endingLineNumber = "791"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413980462.901359"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "643"
+                  endingLineNumber = "643"
+                  offsetFromSymbolStart = "10719">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413980462.901577"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "643"
+                  endingLineNumber = "643"
+                  offsetFromSymbolStart = "10901">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413980462.901796"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "643"
+                  endingLineNumber = "643"
+                  offsetFromSymbolStart = "10936">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "723"
+            endingLineNumber = "723"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413980462.902042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "577"
+                  endingLineNumber = "577"
+                  offsetFromSymbolStart = "6774">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, TiXmlElement*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "413980462.902257"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "577"
+                  endingLineNumber = "577"
+                  offsetFromSymbolStart = "6826">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "758"
+            endingLineNumber = "758"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, mei::StaffGrp*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "414739021.008327"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "658"
+                  endingLineNumber = "658"
+                  offsetFromSymbolStart = "15526">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, mei::StaffGrp*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "414739021.008588"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "658"
+                  endingLineNumber = "658"
+                  offsetFromSymbolStart = "15708">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, mei::StaffGrp*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CNeoScribeXML.cpp"
+                  timestampString = "414739021.008798"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "658"
+                  endingLineNumber = "658"
+                  offsetFromSymbolStart = "15743">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribe/main.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "main(int argc, const char * argv[])"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+            timestampString = "414748170.626453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "CScribeReaderVisitable::load_scribe_file()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReaderVisitable::load_scribe_file()"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+                  timestampString = "414750178.265704"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "20923">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReaderVisitable::load_scribe_file()"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+                  timestampString = "414750178.265915"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "20946">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+            timestampString = "414750178.164771"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "CScribeReaderVisitable::load_scribe_file()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReaderVisitable::load_scribe_file()"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+                  timestampString = "414750178.266143"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "29113">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeReaderVisitable::load_scribe_file()"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+                  timestampString = "414750178.266364"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "30494">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "319"
+            endingLineNumber = "319"
+            landmarkName = "CScribeToNeoScribeXML::SegmentScribe2MEIXML(const CScribeReaderVisitable&amp; scribe_data)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "414793567.699891"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "6573">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "414793567.700106"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "6598">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "414793567.700317"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "7804">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::SegmentScribe2MEIXML(CScribeReaderVisitable const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "414793567.700531"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "9885">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeReaderVisitable.cpp"
+            timestampString = "414793255.579826"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "CScribeReaderVisitable::load_scribe_file()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/Helpers.cpp"
+            timestampString = "414794273.05636"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "ZeroPadNumber(int num, int width)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "660"
+            endingLineNumber = "660"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, mei::StaffGrp*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "415228379.759759"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "583"
+                  endingLineNumber = "583"
+                  offsetFromSymbolStart = "7933">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(CScribeReaderVisitable const&amp;, scribe_part const&amp;, mei::StaffGrp*, int)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "415228379.759979"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "583"
+                  endingLineNumber = "583"
+                  offsetFromSymbolStart = "8007">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "662"
+            endingLineNumber = "662"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "644"
+            endingLineNumber = "644"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLStaff(const CScribeReaderVisitable&amp; scribe_data, const scribe_part&amp; partit, StaffGrp* staffgrp, const int i)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "416545007.459149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "522"
+            endingLineNumber = "522"
+            landmarkName = "CScribeToNeoScribeXML::Scribe2MEIXMLFileData(FileDesc* fileDesc, const scribe_part&amp; partit )"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::Scribe2MEIXMLFileData(mei::FileDesc*, scribe_part const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "415239886.289522"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "4633">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CScribeToNeoScribeXML::Scribe2MEIXMLFileData(mei::FileDesc*, scribe_part const&amp;)"
+                  moduleName = "Scribe2NeoScribeXML"
+                  urlString = "file:///Users/Jason/Musicology/eMirabilis/NeoScribe/NeoScribe/Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+                  timestampString = "415239886.28977"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "465"
+                  endingLineNumber = "465"
+                  offsetFromSymbolStart = "4822">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CSourceKey.cpp"
+            timestampString = "415235558.58131"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "CSourceKey::load_csv_table(const std::string &amp;csv_file)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.cpp"
+            timestampString = "415244874.106927"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CSourceKey.cpp"
+            timestampString = "415238830.151439"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "CSourceKey::load_csv_table(const std::string &amp;csv_file)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scribe2NeoScribeXML/CScribeToNeoScribeXML.h"
+            timestampString = "416464913.515127"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>NeoScribe (from Jason Stoessel's MacBookAir).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>NeoScribe.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Scribe2NeoScribe Debug.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Scribe2NeoScribe Release.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Scribe2NeoScribe static.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Scribe2NeoScribeXML (from Jason Stoessel's MacBookAir).xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>mei 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>mei static.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>mei.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>960E735F1773F95100677DBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>960E736A1773F9BB00677DBA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9616D0D317798ADE0035AF2D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>962EF75818B7E42300436B29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>962EF7C118B7EDAD00436B29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>962EF7D718B7EDAD00436B29</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>963C5C7018B8030B003C1C89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>963C5C7518B8031B003C1C89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9674F73718D3D44500280D49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

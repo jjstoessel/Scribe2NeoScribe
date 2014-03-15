@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CScribeReader::load_scribe_file():CScribeReader.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(std::__1::string)row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CScribeReader::Scribe2MEIXML():CScribeReader.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "(float)v_pos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CScribeReader::Scribe2MEIXML(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;):CScribeReader.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "CScribeReader::read_scribe_row(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):CScribeReader.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
