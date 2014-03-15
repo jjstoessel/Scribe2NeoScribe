@@ -59,7 +59,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		960E736B1773F9BB00677DBA /* Scribe2NeoScribe */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "compiled.mach-o.executable"; path = Scribe2NeoScribe; sourceTree = BUILT_PRODUCTS_DIR; };
+		960E736B1773F9BB00677DBA /* Scribe2NeoScribe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Scribe2NeoScribe; sourceTree = BUILT_PRODUCTS_DIR; };
 		960E736D1773F9BB00677DBA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		960E736F1773F9BB00677DBA /* Scribe2NeoScribe.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Scribe2NeoScribe.1; sourceTree = "<group>"; };
 		960E73E91774031B00677DBA /* CScribeCodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CScribeCodes.h; sourceTree = "<group>"; };
@@ -298,6 +298,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEPLOYMENT_LOCATION = NO;
+				DSTROOT = /tmp/NeoScribe.dst/;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(LOCAL_LIBRARY_DIR)/Frameworks",
@@ -328,6 +329,7 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(LOCAL_LIBRARY_DIR)/Frameworks",
