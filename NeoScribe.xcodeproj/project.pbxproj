@@ -60,24 +60,24 @@
 
 /* Begin PBXFileReference section */
 		960E736B1773F9BB00677DBA /* Scribe2NeoScribe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Scribe2NeoScribe; sourceTree = BUILT_PRODUCTS_DIR; };
-		960E736D1773F9BB00677DBA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		960E736D1773F9BB00677DBA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
 		960E736F1773F9BB00677DBA /* Scribe2NeoScribe.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Scribe2NeoScribe.1; sourceTree = "<group>"; };
-		960E73E91774031B00677DBA /* CScribeCodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CScribeCodes.h; sourceTree = "<group>"; };
-		960E73EA1774033000677DBA /* CScribeCodes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CScribeCodes.cpp; sourceTree = "<group>"; };
-		9616D16D1779B2350035AF2D /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
-		964A1411179EB12E0025CE1A /* Helpers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Helpers.cpp; sourceTree = "<group>"; };
-		9660CE0818A5DEA700CF37A7 /* Visitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Visitor.h; path = "../../../loki-0.1.7/include/loki/Visitor.h"; sourceTree = "<group>"; };
-		9660CE0918A5E38B00CF37A7 /* CScribeReaderVisitable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CScribeReaderVisitable.cpp; sourceTree = "<group>"; };
-		9660CE0B18A5E3A100CF37A7 /* CScribeReaderVisitable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CScribeReaderVisitable.h; sourceTree = "<group>"; };
-		9660CE0C18A5E66000CF37A7 /* CScribeToNeoScribeXML.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CScribeToNeoScribeXML.cpp; sourceTree = "<group>"; };
-		9660CE0D18A5E66000CF37A7 /* CScribeToNeoScribeXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CScribeToNeoScribeXML.h; sourceTree = "<group>"; };
+		960E73E91774031B00677DBA /* CScribeCodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CScribeCodes.h; path = inc/CScribeCodes.h; sourceTree = SOURCE_ROOT; };
+		960E73EA1774033000677DBA /* CScribeCodes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CScribeCodes.cpp; path = src/CScribeCodes.cpp; sourceTree = SOURCE_ROOT; };
+		9616D16D1779B2350035AF2D /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Header.h; path = inc/Header.h; sourceTree = SOURCE_ROOT; };
+		964A1411179EB12E0025CE1A /* Helpers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Helpers.cpp; path = src/Helpers.cpp; sourceTree = SOURCE_ROOT; };
+		9660CE0818A5DEA700CF37A7 /* Visitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Visitor.h; path = "loki-0.1.7/include/loki/Visitor.h"; sourceTree = SOURCE_ROOT; };
+		9660CE0918A5E38B00CF37A7 /* CScribeReaderVisitable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CScribeReaderVisitable.cpp; path = src/CScribeReaderVisitable.cpp; sourceTree = SOURCE_ROOT; };
+		9660CE0B18A5E3A100CF37A7 /* CScribeReaderVisitable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CScribeReaderVisitable.h; path = inc/CScribeReaderVisitable.h; sourceTree = SOURCE_ROOT; };
+		9660CE0C18A5E66000CF37A7 /* CScribeToNeoScribeXML.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CScribeToNeoScribeXML.cpp; path = src/CScribeToNeoScribeXML.cpp; sourceTree = SOURCE_ROOT; };
+		9660CE0D18A5E66000CF37A7 /* CScribeToNeoScribeXML.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CScribeToNeoScribeXML.h; path = inc/CScribeToNeoScribeXML.h; sourceTree = SOURCE_ROOT; };
 		9674F75818D3DE4100280D49 /* mei.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = mei.framework; path = ../../../../Library/Frameworks/mei.framework; sourceTree = DEVELOPER_DIR; };
 		9674F75B18D3F34B00280D49 /* neumcode.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = neumcode.csv; sourceTree = "<group>"; };
 		9674F75C18D3F34B00280D49 /* neumcode_chant.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = neumcode_chant.csv; sourceTree = "<group>"; };
 		9674F75D18D3F34B00280D49 /* neumcode_trecento.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = neumcode_trecento.csv; sourceTree = "<group>"; };
 		9674F75E18D3F34B00280D49 /* sourcekey.tab */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sourcekey.tab; sourceTree = "<group>"; };
-		96C77C3918BFEFD800392701 /* CSourceKey.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CSourceKey.cpp; sourceTree = "<group>"; };
-		96C77C3A18BFEFD800392701 /* CSourceKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CSourceKey.h; sourceTree = "<group>"; };
+		96C77C3918BFEFD800392701 /* CSourceKey.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CSourceKey.cpp; path = src/CSourceKey.cpp; sourceTree = SOURCE_ROOT; };
+		96C77C3A18BFEFD800392701 /* CSourceKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CSourceKey.h; path = inc/CSourceKey.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,9 +137,8 @@
 				9674F75D18D3F34B00280D49 /* neumcode_trecento.csv */,
 				9674F75E18D3F34B00280D49 /* sourcekey.tab */,
 			);
-			name = data;
-			path = ../../testfiles/data;
-			sourceTree = "<group>";
+			path = data;
+			sourceTree = SOURCE_ROOT;
 		};
 		9674F76818D40F6500280D49 /* inc */ = {
 			isa = PBXGroup;
