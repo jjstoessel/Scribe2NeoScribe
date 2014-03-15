@@ -61,7 +61,7 @@
 /* Begin PBXFileReference section */
 		960E736B1773F9BB00677DBA /* Scribe2NeoScribe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Scribe2NeoScribe; sourceTree = BUILT_PRODUCTS_DIR; };
 		960E736D1773F9BB00677DBA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = SOURCE_ROOT; };
-		960E736F1773F9BB00677DBA /* Scribe2NeoScribe.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Scribe2NeoScribe.1; sourceTree = "<group>"; };
+		960E736F1773F9BB00677DBA /* Scribe2NeoScribe.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Scribe2NeoScribe.1; sourceTree = SOURCE_ROOT; };
 		960E73E91774031B00677DBA /* CScribeCodes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CScribeCodes.h; path = inc/CScribeCodes.h; sourceTree = SOURCE_ROOT; };
 		960E73EA1774033000677DBA /* CScribeCodes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = CScribeCodes.cpp; path = src/CScribeCodes.cpp; sourceTree = SOURCE_ROOT; };
 		9616D16D1779B2350035AF2D /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Header.h; path = inc/Header.h; sourceTree = SOURCE_ROOT; };
