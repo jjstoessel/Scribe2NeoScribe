@@ -23,14 +23,12 @@
 #include <iterator>
 #include "Header.h"
 
-//static class instantiation - once only
-const CScribeCodes* CScribeReaderVisitable::trecento_codes = new CScribeCodes(TRECENTO_CODES_CSV); //new CScribeCodes("trecento_neumcode.csv");
-const CScribeCodes* CScribeReaderVisitable::chant_codes = new CScribeCodes(CHANT_CODES_CSV); //new CScribeCodes("chant_neumcode.csv");
-
 
 CScribeReaderVisitable::CScribeReaderVisitable(const std::string& scribe_file_name)
 : file(scribe_file_name)
 {
+    trecento_codes = new CScribeCodes(TRECENTO_CODES_CSV);
+    chant_codes = new CScribeCodes(CHANT_CODES_CSV);
     if (file.is_open())
     {
         read_header();
@@ -42,6 +40,8 @@ CScribeReaderVisitable::CScribeReaderVisitable(const std::string& scribe_file_na
 
 CScribeReaderVisitable::~CScribeReaderVisitable()
 {
+    delete trecento_codes;
+    delete chant_codes;
     file.close();
 }
 
@@ -63,7 +63,7 @@ scribe_type  CScribeReaderVisitable::read_header()
     }
     else
     {
-        throw "bad file type";
+        throw std::range_error("bad file: header not found");
     }
     
     return type;
@@ -86,7 +86,7 @@ int CScribeReaderVisitable::load_scribe_file()
         std::stringstream lineStream(row);
         
         
-        if (lineStream.get()!='>') throw "metadata not present."; //make sure metadata is present
+        if (lineStream.get()!='>') throw std::logic_error("metadata not present."); //make sure metadata is present
         
         std::streampos  pos = 1; //allow for leading '>'
         

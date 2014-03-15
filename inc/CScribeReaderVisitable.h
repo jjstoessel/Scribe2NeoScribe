@@ -133,8 +133,8 @@ private:
     scribe_row          read_scribe_row(std::string raw_row);
     scribe_type         file_type() { return type; }
     
-    static const        CScribeCodes*       trecento_codes;
-    static const        CScribeCodes*       chant_codes;
+    const        CScribeCodes*       trecento_codes;
+    const        CScribeCodes*       chant_codes;
     const  CScribeCodes*       codes;
     std::ifstream       file;
     scribe_type         type;

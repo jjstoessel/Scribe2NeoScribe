@@ -69,7 +69,7 @@ void    CScribeCodes::load_csv_table(const std::string &csv_file)
     if (file.is_open())
         GETLINE(file, line); //skip header row
     else
-        throw "Could not open CSV file.";
+        throw std::runtime_error("Could not open Scribe Codes CSV file.");
     
     while (file)
     {
@@ -114,7 +114,7 @@ void    CScribeCodes::load_csv_table(const std::string &csv_file)
         }
     }
     else
-        throw "Error reading in csv file";
+        throw std::runtime_error("Error reading in Scribe codes csv file");
     
 }
 

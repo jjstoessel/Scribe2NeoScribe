@@ -33,6 +33,7 @@
 #include <iostream>
 #include <exception>
 
+#include "Header.h"
 #include "CScribeCodes.h"
 #include "CScribeReaderVisitable.h"
 #include "CScribeToNeoScribeXML.h"
@@ -49,6 +50,7 @@ int main(int argc, const char * argv[])
         exit(1); //add help here
     }
     
+        
     try {
         
         std::stringstream encoder;
