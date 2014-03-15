@@ -13,7 +13,7 @@
 
 #include <iostream>
 #include <string>
-#include <mei.h>
+#include <mei/mei.h>
 #include <mei/header.h>
 #include <mei/shared.h>
 
