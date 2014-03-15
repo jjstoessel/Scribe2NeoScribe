@@ -6,6 +6,8 @@ _Requirements_
 
 Scribe2NeoScribe requires the open source LibMEI framework. Download LibMEI from here https://github.com/DDMAL/libmei and follow the installation instruction given there. LibMEI framework requirements need to be also observed.
 
+Scribe2NeoScribe also requires the Standard C++ Library and compiles in the Apple LLVM 5.0 C/C++ compiler.
+
 _Installation_
 
 Currently Scribe2NeoScribe can be compiled either in Apple Computer's XCode 5.0 or from the commandline if XCode command line tools are install by typing "sudo xcodebuild install" after changing into the directory containing the "NeoScribe.xcodeproj" package.
