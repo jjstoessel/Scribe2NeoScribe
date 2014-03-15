@@ -8,7 +8,7 @@ Scribe2NeoScribe requires the open source LibMEI framework. Download LibMEI from
 
 Scribe2NeoScribe currently uses existing MEI modules. Future releases will add support for the NeoScribe MEI Module, especially for handingly Trecento and Ars nova notation.
 
-Scribe2NeoScribe uses Andrei Alexandrescu's Loki Visitor template class; see http://sourceforge.net/projects/loki-lib/.
+Scribe2NeoScribe uses Andrei Alexandrescu's Visitor template class from the Loki framework; see http://sourceforge.net/projects/loki-lib/.
 
 Scribe2NeoScribe also requires the Standard C++ Library and compiles in the Apple LLVM 5.0 C/C++ compiler.
 
