@@ -41,7 +41,7 @@ public:
 private:
     
     std::string         encoder = "Unknown";
-    static const CSourceKey*   sourcekey;
+    CSourceKey*         sourcekey;
     
     MeiDocument*        Scribe2MEIXML(const CScribeReaderVisitable& scribe_data);
     void                Scribe2MEIXMLFileData(FileDesc* fileDesc, const scribe_part& partit );

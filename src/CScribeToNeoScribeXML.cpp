@@ -58,17 +58,17 @@
 
 using namespace mei;
 
-const CSourceKey* CScribeToNeoScribeXML::sourcekey = new CSourceKey(SOURCE_KEY_CSV);
-
 
 CScribeToNeoScribeXML::CScribeToNeoScribeXML(const std::string& encoder_name)
 {
+    sourcekey = new CSourceKey(PROCWORKINGDIRECTORY + SOURCE_KEY_CSV);
     encoder = encoder_name;
     doc = new MeiDocument();
 }
 
 CScribeToNeoScribeXML::~CScribeToNeoScribeXML()
 {
+    delete sourcekey;
     delete doc;
 }
 

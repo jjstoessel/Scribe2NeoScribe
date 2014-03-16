@@ -27,8 +27,8 @@
 CScribeReaderVisitable::CScribeReaderVisitable(const std::string& scribe_file_name)
 : file(scribe_file_name)
 {
-    trecento_codes = new CScribeCodes(TRECENTO_CODES_CSV);
-    chant_codes = new CScribeCodes(CHANT_CODES_CSV);
+    trecento_codes = new CScribeCodes(PROCWORKINGDIRECTORY + TRECENTO_CODES_CSV);
+    chant_codes = new CScribeCodes(PROCWORKINGDIRECTORY + CHANT_CODES_CSV);
     if (file.is_open())
     {
         read_header();

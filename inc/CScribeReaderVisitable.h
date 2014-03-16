@@ -135,7 +135,7 @@ private:
     
     const        CScribeCodes*       trecento_codes;
     const        CScribeCodes*       chant_codes;
-    const  CScribeCodes*       codes;
+    const        CScribeCodes*       codes;
     std::ifstream       file;
     scribe_type         type;
     std::vector<scribe_part>   parts; //all voices or parts

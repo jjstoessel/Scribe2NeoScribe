@@ -39,6 +39,7 @@
 #include "CScribeToNeoScribeXML.h"
 
 std::string encoder_parameter("-e");
+std::string appName = "Scribe2NeoScribe";
 
 int main(int argc, const char * argv[])
 {
@@ -52,6 +53,13 @@ int main(int argc, const char * argv[])
     
         
     try {
+        
+        PROCWORKINGDIRECTORY = argv[0];
+        if (!PROCWORKINGDIRECTORY.empty()) {
+            for (int i = 0; i < appName.length(); i++) {
+                PROCWORKINGDIRECTORY.pop_back();
+            }
+        }
         
         std::stringstream encoder;
         int i = 1;
