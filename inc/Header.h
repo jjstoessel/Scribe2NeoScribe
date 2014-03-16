@@ -16,7 +16,7 @@
 const std::string   TRECENTO_CODES_CSV = "data/neumcode_trecento.csv";
 const std::string   CHANT_CODES_CSV = "data/neumcode_chant.csv";
 const std::string   SOURCE_KEY_CSV = "data/sourcekey.tab";
-static std::string  PROCWORKINGDIRECTORY = "/usr/local/bin/";
+extern  std::string  PROCWORKINGDIRECTORY;
 
 
 enum scribe_type {undefined, chant, trecento};

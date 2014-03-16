@@ -38,8 +38,9 @@
 #include "CScribeReaderVisitable.h"
 #include "CScribeToNeoScribeXML.h"
 
-std::string encoder_parameter("-e");
-std::string appName = "Scribe2NeoScribe";
+std::string     encoder_parameter("-e");
+std::string     appName = "Scribe2NeoScribe";
+std::string     PROCWORKINGDIRECTORY = "/usr/local/bin/";
 
 int main(int argc, const char * argv[])
 {

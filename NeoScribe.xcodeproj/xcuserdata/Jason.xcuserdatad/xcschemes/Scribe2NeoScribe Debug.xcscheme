@@ -97,11 +97,11 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = "LBL23935.NEU"
-            isEnabled = "NO">
+            isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
             argument = "VIRTUTES.NEU"
-            isEnabled = "YES">
+            isEnabled = "NO">
          </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
