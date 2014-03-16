@@ -55,11 +55,22 @@ int main(int argc, const char * argv[])
         
     try {
         
+        std::cout << "Welcome to the Scribe2NeoScribe convertor. This this application will\n"
+        << "convert your Scribe file to MEI-compliant NeoScribe XML. Your original\n"
+        << "file will not be altered." << std::endl;
+        
         PROCWORKINGDIRECTORY = argv[0];
+        std::cout << "Process directory: "<< PROCWORKINGDIRECTORY << std::endl;
         if (!PROCWORKINGDIRECTORY.empty()) {
             for (int i = 0; i < appName.length(); i++) {
                 PROCWORKINGDIRECTORY.pop_back();
             }
+        }
+        else { std::cerr << "Scribe2NeoScribe: couldnot find process directory" << std::endl; return 0; }
+        
+        //quick work around for the time being
+        if (PROCWORKINGDIRECTORY.empty()) {
+            PROCWORKINGDIRECTORY = "/usr/local/bin/";
         }
         
         std::stringstream encoder;
@@ -79,10 +90,7 @@ int main(int argc, const char * argv[])
         std::string file(argv[i]); //file name currently supplied as call parameter
         
         if (file.empty())  { std::cerr << "Scribe2NeoScribe: Bad file parameter" << std::endl; return 0; }
-        
-        std::cout << "Welcome to the Scribe2NeoScribe convertor. This this application will\n"
-                  << "convert your Scribe file to MEI-compliant NeoScribe XML. Your original\n"
-                  << "file will not be altered." << std::endl;
+    
         std::cout << "Converting " << argv[i] << "..." << std::endl;
         
         CScribeReaderVisitable scribe_data(file);
